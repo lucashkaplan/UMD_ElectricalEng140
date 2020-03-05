@@ -1,5 +1,5 @@
 # ENEE140
-This repository contains the projects completed in the class ENEE140: Introduction to Programming Concepts for Engineers. Due to the obscure and convoluted nature of Project 2 this semester, I have chosen to omit my code and its related files.
+This repository contains the projects completed in the class ENEE140: Introduction to Programming Concepts for Engineers. Due to the  obscure and unintuitive nature of Project 2, its program has been omitted.
 
 ## Project 1:
 This project simulates the variable declaration and initialization process in C. It will print reserved keywords that cannot be used as a variable name and then prompt the user to enter the variable's type, name, and its initial value (optionally). Finally, it will print out the corresponding statement in C for such a variable declaration.
